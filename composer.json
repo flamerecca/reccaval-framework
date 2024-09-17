@@ -1,0 +1,18 @@
+{
+    "name": "recca/reccaval-framework",
+    "description": "a test project for mimicking laravel/framework",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Reccaval\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Recca Chao",
+            "email": "flamerecca711@gmail.com"
+        }
+    ],
+    "require": {}
+}
